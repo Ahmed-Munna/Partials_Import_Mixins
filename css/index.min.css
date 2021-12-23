@@ -1,0 +1,16 @@
+body {
+  background: #555;
+  color: #f1f1f1;
+  text-align: center;
+  -webkit-transition: all 0.5s;
+  transition: all 0.5s; }
+  body span {
+    background: #1f8a7b;
+    display: block;
+    padding: 5px;
+    -webkit-box-shadow: 0px 1px 5px 0px black;
+            box-shadow: 0px 1px 5px 0px black;
+    border-radius: 4px;
+    font-size: 50px; }
+  body:hover {
+    background: #1f8a7b; }
